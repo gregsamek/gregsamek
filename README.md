@@ -4,4 +4,4 @@ Check out my project [TinyNews](https://gregsamek.github.io/TinyNews/) - I gener
 
 I recently completed the Data Science program at [Bloomtech](https://www.bloomtech.com/). I previously worked in material science research & development after receiving my degree in chemical engineering. My first [patent](https://patents.google.com/patent/US10433700B2/) was granted in 2019.
 
-Connect with me on [X](https://x.com/GregSamek) or [LinkedIn](https://www.linkedin.com/in/gregsamek/)
+Connect with me on [𝕏](https://x.com/GregSamek) or [LinkedIn](https://www.linkedin.com/in/gregsamek/)
